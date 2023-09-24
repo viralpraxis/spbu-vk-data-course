@@ -25,19 +25,19 @@ func main ()  {
 }
 
 func runSnapshotter() {
-  ticker := time.NewTicker(10 * time.Second)
+  ticker := time.NewTicker(60 * time.Second)
 
   quit := make(chan struct{})
   go func() {
-      for {
-         select {
-          case <- ticker.C:
-            snapshot = sm.TakeSnapshot(tm) // thread-safe impl
-          case <- quit:
-              ticker.Stop()
-              log.Print("Snapshots stopped")
-              return
-          }
+    for {
+      select {
+        case <- ticker.C:
+          snapshot = sm.TakeSnapshot(tm) // thread-safe impl
+        case <- quit:
+          ticker.Stop()
+          log.Print("Snapshots stopped")
+          return
+        }
       }
    }()
 }

@@ -3,26 +3,26 @@ package main
 import "sync"
 
 type SnapshotManager struct {
-	mu *sync.Mutex
+  mu *sync.Mutex
 }
 
 func NewSnapshotManager() *SnapshotManager {
-	return &SnapshotManager{
-		mu: &sync.Mutex{},
-	}
+  return &SnapshotManager{
+    mu: &sync.Mutex{},
+  }
 }
 
 func (sm *SnapshotManager) TakeSnapshot(txManager *TransactionManager) State {
-	sm.mu.Lock()
-	var snapshot State
+  sm.mu.Lock()
+  var snapshot State
 
-	ok, snapshot := txManager.wal.Snapshot()
-	if !ok {
-		sm.mu.Unlock()
-		return nil
-	}
+  ok, snapshot := txManager.wal.Snapshot()
+  if !ok {
+    sm.mu.Unlock()
+    return nil
+  }
 
-	sm.mu.Unlock()
+  sm.mu.Unlock()
 
-	return snapshot
+  return snapshot
 }

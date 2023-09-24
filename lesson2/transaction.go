@@ -1,28 +1,28 @@
 package main
 
 type Transaction struct {
-	Command ICommand
+  Command ICommand
 }
 
 // either success or failure, now only success
 type TransactionResult struct {
-	Data []byte
+  Data []byte
 }
 
 type ICommand interface {
-	Name() string
+  Name() string
 }
 
 type GetCommand struct {}
 
 type PutCommand struct {
-	Data []byte
+  Data []byte
 }
 
 func (t GetCommand) Name() string {
-	return "GET"
+  return "GET"
 }
 
 func (t PutCommand) Name() string {
-	return "PUT"
+  return "PUT"
 }

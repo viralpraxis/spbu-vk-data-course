@@ -6,13 +6,13 @@ import (
 )
 
 type WAL struct {
-	logs list.List
+  logs list.List
 }
 
 func NewWAL() *WAL {
-	return &WAL{
-		logs: *list.New(),
-	}
+  return &WAL{
+    logs: *list.New(),
+  }
 }
 
 func (wal *WAL) AddRecord(tx Transaction) bool {
@@ -31,16 +31,16 @@ func (wal *WAL) AddRecord(tx Transaction) bool {
 func (wal *WAL) Snapshot() (bool, State) {
   log.Printf("[SNAPHOT] taking new snapshot")
 
-	var lastEntry *list.Element
-	if lastEntry = wal.logs.Front(); lastEntry == nil {
+  var lastEntry *list.Element
+  if lastEntry = wal.logs.Front(); lastEntry == nil {
     return false, nil
-	}
+  }
 
-	lastTX, ok := lastEntry.Value.(Transaction).Command.(*PutCommand)
+  lastTX, ok := lastEntry.Value.(Transaction).Command.(*PutCommand)
 
-	if !ok {
-		panic("Invalid API usage")
-	}
+  if !ok {
+    panic("Invalid API usage")
+  }
 
   return true, lastTX.Data
 }
