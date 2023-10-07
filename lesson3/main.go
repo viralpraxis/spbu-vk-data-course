@@ -26,7 +26,6 @@ var port string
 var tm *TransactionManager
 
 var snapshot string
-var clock uint64
 var vClocks map[string]uint64
 var peers []string
 
@@ -134,8 +133,8 @@ func replaceHandler(w http.ResponseWriter, r *http.Request) {
   defer r.Body.Close()
   data, _ := io.ReadAll(r.Body)
 
-  clock += 1
-  tm.Execute(data, Source, clock)
+  vClocks[Source] += 1
+  tm.Execute(data, Source, vClocks[Source])
 
   w.Header().Set("Content-Type", "text/plain")
   w.Write(tm.state)
