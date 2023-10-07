@@ -6,35 +6,36 @@ import (
 )
 
 type Journal struct { // aka WAL
-  entries []*JournalEntry
-  mu *sync.RWMutex
+	entries []*JournalEntry
+	mu      *sync.Mutex
 }
 
 type JournalEntry struct {
-  Source string    `json:"Source"`
-  Id uint64        `json:"Id"`
-  Payload string   `json:"Payload"`
+	Source  string `json:"Source"`
+	Id      uint64 `json:"Id"`
+	Payload string `json:"Payload"`
 }
 
 func NewJournal() *Journal {
-  return &Journal{
-    entries: make([]*JournalEntry, 0),
-    mu: &sync.RWMutex{},
-  }
+	return &Journal{
+		entries: make([]*JournalEntry, 0),
+		mu:      &sync.Mutex{},
+	}
 }
 
 func (wal *Journal) AddRecord(source string, id uint64, payload []byte) *JournalEntry {
-  var journalEntry = &JournalEntry{
-    Source: source,
-    Id: id,
-    Payload: string(payload),
-  }
+	var journalEntry = &JournalEntry{
+		Source:  source,
+		Id:      id,
+		Payload: string(payload),
+	}
 
-  wal.mu.Lock()
-  wal.entries = append(wal.entries, journalEntry)
-  wal.mu.Unlock()
+	wal.mu.Lock()
+	defer func() { wal.mu.Unlock() }()
 
-  log.Printf("[Journal] inserted new log %s", payload)
+	wal.entries = append(wal.entries, journalEntry)
 
-  return journalEntry
+	log.Printf("[Journal] inserted new log %s", payload)
+
+	return journalEntry
 }
