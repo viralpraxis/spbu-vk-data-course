@@ -1,0 +1,243 @@
+2023/11/11 19:44:29 Listening on 8080/tcp, node name: 8080, peers: []
+2023/11/11 19:44:33 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":20, "y":20}}]
+2023/11/11 19:44:33 Replicating to 0 nodes..
+2023/11/11 19:44:38 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":21, "y":20}}]
+2023/11/11 19:44:38 Replicating to 1 nodes..
+2023/11/11 19:44:38 Replicated successfully
+2023/11/11 19:44:39 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":22, "y":20}}]
+2023/11/11 19:44:39 Replicating to 1 nodes..
+2023/11/11 19:44:39 Replicated successfully
+2023/11/11 19:44:39 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":23, "y":20}}]
+2023/11/11 19:44:39 Replicating to 1 nodes..
+2023/11/11 19:44:39 Replicated successfully
+2023/11/11 19:44:39 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":22, "y":20}}]
+2023/11/11 19:44:39 Replicating to 1 nodes..
+2023/11/11 19:44:39 Replicated successfully
+2023/11/11 19:44:39 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":21, "y":20}}]
+2023/11/11 19:44:39 Replicating to 1 nodes..
+2023/11/11 19:44:39 Replicated successfully
+2023/11/11 19:44:39 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":20, "y":20}}]
+2023/11/11 19:44:39 Replicating to 1 nodes..
+2023/11/11 19:44:39 Replicated successfully
+2023/11/11 19:44:40 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":19, "y":20}}]
+2023/11/11 19:44:40 Replicating to 1 nodes..
+2023/11/11 19:44:40 Replicated successfully
+2023/11/11 19:44:40 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":18, "y":20}}]
+2023/11/11 19:44:40 Replicating to 1 nodes..
+2023/11/11 19:44:40 Replicated successfully
+2023/11/11 19:44:40 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":19, "y":20}}]
+2023/11/11 19:44:40 Replicating to 1 nodes..
+2023/11/11 19:44:40 Replicated successfully
+2023/11/11 19:44:41 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":20, "y":20}}]
+2023/11/11 19:44:41 Replicating to 1 nodes..
+2023/11/11 19:44:41 Replicated successfully
+2023/11/11 19:44:41 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":21, "y":20}}]
+2023/11/11 19:44:41 Replicating to 1 nodes..
+2023/11/11 19:44:41 Replicated successfully
+2023/11/11 19:44:41 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":22, "y":20}}]
+2023/11/11 19:44:41 Replicating to 1 nodes..
+2023/11/11 19:44:41 Replicated successfully
+2023/11/11 19:46:05 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":21, "y":20}}]
+2023/11/11 19:46:05 Replicating to 1 nodes..
+2023/11/11 19:46:05 Replicated successfully
+2023/11/11 19:46:06 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":20, "y":20}}]
+2023/11/11 19:46:06 Replicating to 1 nodes..
+2023/11/11 19:46:06 Replicated successfully
+2023/11/11 19:46:06 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":19, "y":20}}]
+2023/11/11 19:46:06 Replicating to 1 nodes..
+2023/11/11 19:46:06 Replicated successfully
+2023/11/11 19:46:06 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":18, "y":20}}]
+2023/11/11 19:46:06 Replicating to 1 nodes..
+2023/11/11 19:46:06 Replicated successfully
+2023/11/11 19:46:06 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":17, "y":20}}]
+2023/11/11 19:46:06 Replicating to 1 nodes..
+2023/11/11 19:46:06 Replicated successfully
+2023/11/11 19:46:06 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":16, "y":20}}]
+2023/11/11 19:46:06 Replicating to 1 nodes..
+2023/11/11 19:46:06 Replicated successfully
+2023/11/11 19:46:06 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":15, "y":20}}]
+2023/11/11 19:46:06 Replicating to 1 nodes..
+2023/11/11 19:46:06 Replicated successfully
+2023/11/11 19:46:07 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":14, "y":20}}]
+2023/11/11 19:46:07 Replicating to 1 nodes..
+2023/11/11 19:46:07 Replicated successfully
+2023/11/11 19:46:07 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":13, "y":20}}]
+2023/11/11 19:46:07 Replicating to 1 nodes..
+2023/11/11 19:46:07 Replicated successfully
+2023/11/11 19:46:07 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":12, "y":20}}]
+2023/11/11 19:46:07 Replicating to 1 nodes..
+2023/11/11 19:46:07 Replicated successfully
+2023/11/11 19:46:07 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":11, "y":20}}]
+2023/11/11 19:46:07 Replicating to 1 nodes..
+2023/11/11 19:46:07 Replicated successfully
+2023/11/11 19:46:07 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":10, "y":20}}]
+2023/11/11 19:46:07 Replicating to 1 nodes..
+2023/11/11 19:46:07 Replicated successfully
+2023/11/11 19:46:07 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":9, "y":20}}]
+2023/11/11 19:46:07 Replicating to 1 nodes..
+2023/11/11 19:46:07 Replicated successfully
+2023/11/11 19:46:08 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":8, "y":20}}]
+2023/11/11 19:46:08 Replicating to 1 nodes..
+2023/11/11 19:46:08 Replicated successfully
+2023/11/11 19:46:08 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":7, "y":20}}]
+2023/11/11 19:46:08 Replicating to 1 nodes..
+2023/11/11 19:46:08 Replicated successfully
+2023/11/11 19:46:08 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":8, "y":20}}]
+2023/11/11 19:46:08 Replicating to 1 nodes..
+2023/11/11 19:46:08 Replicated successfully
+2023/11/11 19:46:08 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":9, "y":20}}]
+2023/11/11 19:46:08 Replicating to 1 nodes..
+2023/11/11 19:46:08 Replicated successfully
+2023/11/11 19:46:09 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":10, "y":20}}]
+2023/11/11 19:46:09 Replicating to 1 nodes..
+2023/11/11 19:46:09 Replicated successfully
+2023/11/11 19:46:09 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":9, "y":20}}]
+2023/11/11 19:46:09 Replicating to 1 nodes..
+2023/11/11 19:46:09 Replicated successfully
+2023/11/11 19:46:09 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":9, "y":19}}]
+2023/11/11 19:46:09 Replicating to 1 nodes..
+2023/11/11 19:46:09 Replicated successfully
+2023/11/11 19:46:10 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":9, "y":18}}]
+2023/11/11 19:46:10 Replicating to 1 nodes..
+2023/11/11 19:46:10 Replicated successfully
+2023/11/11 19:46:10 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":9, "y":17}}]
+2023/11/11 19:46:10 Replicating to 1 nodes..
+2023/11/11 19:46:10 Replicated successfully
+2023/11/11 19:46:10 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":9, "y":16}}]
+2023/11/11 19:46:10 Replicating to 1 nodes..
+2023/11/11 19:46:10 Replicated successfully
+2023/11/11 19:46:10 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":9, "y":15}}]
+2023/11/11 19:46:10 Replicating to 1 nodes..
+2023/11/11 19:46:10 Replicated successfully
+2023/11/11 19:46:10 [Journal] inserted new log [{"op":"add", "path": "/", "value": {"x":9, "y":14}}]
+2023/11/11 19:46:10 Replicating to 1 nodes..
+2023/11/11 19:46:10 Replicated successfully
+2023/11/11 19:48:13 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":20}}]
+2023/11/11 19:48:13 Replicating to 1 nodes..
+2023/11/11 19:48:13 Replicated successfully
+2023/11/11 19:48:14 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":20}}]
+2023/11/11 19:48:14 Replicating to 1 nodes..
+2023/11/11 19:48:14 Replicated successfully
+2023/11/11 19:48:15 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":20}}]
+2023/11/11 19:48:15 Replicating to 1 nodes..
+2023/11/11 19:48:15 Replicated successfully
+2023/11/11 19:48:23 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":19}}]
+2023/11/11 19:48:23 Replicating to 1 nodes..
+2023/11/11 19:48:23 Replicated successfully
+2023/11/11 19:48:23 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":18}}]
+2023/11/11 19:48:23 Replicating to 1 nodes..
+2023/11/11 19:48:23 Replicated successfully
+2023/11/11 19:48:24 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":19}}]
+2023/11/11 19:48:24 Replicating to 1 nodes..
+2023/11/11 19:48:24 Replicated successfully
+2023/11/11 19:48:24 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":20}}]
+2023/11/11 19:48:24 Replicating to 1 nodes..
+2023/11/11 19:48:24 Replicated successfully
+2023/11/11 19:48:24 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":21}}]
+2023/11/11 19:48:24 Replicating to 1 nodes..
+2023/11/11 19:48:24 Replicated successfully
+2023/11/11 19:48:24 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":22}}]
+2023/11/11 19:48:24 Replicating to 1 nodes..
+2023/11/11 19:48:24 Replicated successfully
+2023/11/11 19:48:25 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":23}}]
+2023/11/11 19:48:25 Replicating to 1 nodes..
+2023/11/11 19:48:25 Replicated successfully
+2023/11/11 19:48:25 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":24}}]
+2023/11/11 19:48:25 Replicating to 1 nodes..
+2023/11/11 19:48:25 Replicated successfully
+2023/11/11 19:48:25 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":25}}]
+2023/11/11 19:48:25 Replicating to 1 nodes..
+2023/11/11 19:48:25 Replicated successfully
+2023/11/11 19:48:25 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":26}}]
+2023/11/11 19:48:25 Replicating to 1 nodes..
+2023/11/11 19:48:25 Replicated successfully
+2023/11/11 19:48:25 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":20, "y":27}}]
+2023/11/11 19:48:25 Replicating to 1 nodes..
+2023/11/11 19:48:25 Replicated successfully
+2023/11/11 19:48:26 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":19, "y":27}}]
+2023/11/11 19:48:26 Replicating to 1 nodes..
+2023/11/11 19:48:26 Replicated successfully
+2023/11/11 19:48:26 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":18, "y":27}}]
+2023/11/11 19:48:26 Replicating to 1 nodes..
+2023/11/11 19:48:26 Replicated successfully
+2023/11/11 19:48:26 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":17, "y":27}}]
+2023/11/11 19:48:26 Replicating to 1 nodes..
+2023/11/11 19:48:26 Replicated successfully
+2023/11/11 19:48:26 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":16, "y":27}}]
+2023/11/11 19:48:26 Replicating to 1 nodes..
+2023/11/11 19:48:26 Replicated successfully
+2023/11/11 19:48:26 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":15, "y":27}}]
+2023/11/11 19:48:26 Replicating to 1 nodes..
+2023/11/11 19:48:26 Replicated successfully
+2023/11/11 19:48:26 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":14, "y":27}}]
+2023/11/11 19:48:26 Replicating to 1 nodes..
+2023/11/11 19:48:26 Replicated successfully
+2023/11/11 19:48:27 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":13, "y":27}}]
+2023/11/11 19:48:27 Replicating to 1 nodes..
+2023/11/11 19:48:27 Replicated successfully
+2023/11/11 19:48:27 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":12, "y":27}}]
+2023/11/11 19:48:27 Replicating to 1 nodes..
+2023/11/11 19:48:27 Replicated successfully
+2023/11/11 19:48:27 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":12, "y":28}}]
+2023/11/11 19:48:27 Replicating to 1 nodes..
+2023/11/11 19:48:27 Replicated successfully
+2023/11/11 19:48:27 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":12, "y":29}}]
+2023/11/11 19:48:27 Replicating to 1 nodes..
+2023/11/11 19:48:27 Replicated successfully
+2023/11/11 19:48:28 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":12, "y":30}}]
+2023/11/11 19:48:28 Replicating to 1 nodes..
+2023/11/11 19:48:28 Replicated successfully
+2023/11/11 19:48:28 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":12, "y":31}}]
+2023/11/11 19:48:28 Replicating to 1 nodes..
+2023/11/11 19:48:28 Replicated successfully
+2023/11/11 19:48:28 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":12, "y":32}}]
+2023/11/11 19:48:28 Replicating to 1 nodes..
+2023/11/11 19:48:28 Replicated successfully
+2023/11/11 19:48:28 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":12, "y":33}}]
+2023/11/11 19:48:28 Replicating to 1 nodes..
+2023/11/11 19:48:28 Replicated successfully
+2023/11/11 19:48:28 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":12, "y":34}}]
+2023/11/11 19:48:28 Replicating to 1 nodes..
+2023/11/11 19:48:28 Replicated successfully
+2023/11/11 19:48:28 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":12, "y":35}}]
+2023/11/11 19:48:28 Replicating to 1 nodes..
+2023/11/11 19:48:28 Replicated successfully
+2023/11/11 19:48:29 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":12, "y":36}}]
+2023/11/11 19:48:29 Replicating to 1 nodes..
+2023/11/11 19:48:29 Replicated successfully
+2023/11/11 19:48:29 [Journal] inserted new log [{"op":"add", "path": "/213", "value": {"x":12, "y":35}}]
+2023/11/11 19:48:29 Replicating to 1 nodes..
+2023/11/11 19:48:29 Replicated successfully
+2023/11/11 19:48:32 [Journal] inserted new log [{"op":"add", "path": "/124", "value": {"x":20, "y":20}}]
+2023/11/11 19:48:32 Replicating to 1 nodes..
+2023/11/11 19:48:32 Replicated successfully
+2023/11/11 19:48:33 [Journal] inserted new log [{"op":"add", "path": "/124", "value": {"x":20, "y":21}}]
+2023/11/11 19:48:33 Replicating to 1 nodes..
+2023/11/11 19:48:33 Replicated successfully
+2023/11/11 19:48:33 [Journal] inserted new log [{"op":"add", "path": "/124", "value": {"x":20, "y":22}}]
+2023/11/11 19:48:33 Replicating to 1 nodes..
+2023/11/11 19:48:33 Replicated successfully
+2023/11/11 19:48:33 [Journal] inserted new log [{"op":"add", "path": "/124", "value": {"x":20, "y":23}}]
+2023/11/11 19:48:33 Replicating to 1 nodes..
+2023/11/11 19:48:33 Replicated successfully
+2023/11/11 19:48:34 [Journal] inserted new log [{"op":"add", "path": "/124", "value": {"x":20, "y":24}}]
+2023/11/11 19:48:34 Replicating to 1 nodes..
+2023/11/11 19:48:34 Replicated successfully
+2023/11/11 19:48:34 [Journal] inserted new log [{"op":"add", "path": "/124", "value": {"x":20, "y":25}}]
+2023/11/11 19:48:34 Replicating to 1 nodes..
+2023/11/11 19:48:34 Replicated successfully
+2023/11/11 19:48:34 [Journal] inserted new log [{"op":"add", "path": "/124", "value": {"x":20, "y":26}}]
+2023/11/11 19:48:34 Replicating to 1 nodes..
+2023/11/11 19:48:34 Replicated successfully
+2023/11/11 19:48:34 [Journal] inserted new log [{"op":"add", "path": "/124", "value": {"x":20, "y":27}}]
+2023/11/11 19:48:34 Replicating to 1 nodes..
+2023/11/11 19:48:34 Replicated successfully
+2023/11/11 19:48:34 [Journal] inserted new log [{"op":"add", "path": "/124", "value": {"x":20, "y":28}}]
+2023/11/11 19:48:34 Replicating to 1 nodes..
+2023/11/11 19:48:34 Replicated successfully
+2023/11/11 19:48:35 [Journal] inserted new log [{"op":"add", "path": "/124", "value": {"x":20, "y":29}}]
+2023/11/11 19:48:35 Replicating to 1 nodes..
+2023/11/11 19:48:35 Replicated successfully
+2023/11/11 19:48:35 [Journal] inserted new log [{"op":"add", "path": "/124", "value": {"x":20, "y":30}}]
+2023/11/11 19:48:35 Replicating to 1 nodes..
+2023/11/11 19:48:35 Replicated successfully
