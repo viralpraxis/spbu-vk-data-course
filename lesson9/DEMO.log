@@ -1,0 +1,877 @@
+2023/11/26 21:05:58 Listening on 8080/tcp, node name: 8080, peers: []
+2023/11/26 21:06:10 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":317, "size":20, "logo":"lisp"}}]
+2023/11/26 21:06:10 Replicating to 1 nodes..
+2023/11/26 21:06:10 Replicated successfully
+2023/11/26 21:06:13 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":318, "size":20, "logo":"lisp"}}]
+2023/11/26 21:06:13 Replicating to 1 nodes..
+2023/11/26 21:06:13 Replicated successfully
+2023/11/26 21:06:13 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":319, "size":20, "logo":"lisp"}}]
+2023/11/26 21:06:13 Replicating to 1 nodes..
+2023/11/26 21:06:13 Replicated successfully
+2023/11/26 21:06:13 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":320, "size":20, "logo":"lisp"}}]
+2023/11/26 21:06:13 Replicating to 1 nodes..
+2023/11/26 21:06:13 Replicated successfully
+2023/11/26 21:06:13 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":321, "size":20, "logo":"lisp"}}]
+2023/11/26 21:06:13 Replicating to 1 nodes..
+2023/11/26 21:06:13 Replicated successfully
+2023/11/26 21:06:13 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":322, "size":20, "logo":"lisp"}}]
+2023/11/26 21:06:13 Replicating to 1 nodes..
+2023/11/26 21:06:13 Replicated successfully
+2023/11/26 21:06:13 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":323, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:13 Replicating to 1 nodes..
+2023/11/26 21:06:13 Replicated successfully
+2023/11/26 21:06:14 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":324, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:14 Replicating to 1 nodes..
+2023/11/26 21:06:14 Replicated successfully
+2023/11/26 21:06:14 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":325, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:14 Replicating to 1 nodes..
+2023/11/26 21:06:14 Replicated successfully
+2023/11/26 21:06:14 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":326, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:14 Replicating to 1 nodes..
+2023/11/26 21:06:14 Replicated successfully
+2023/11/26 21:06:14 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":327, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:14 Replicating to 1 nodes..
+2023/11/26 21:06:14 Replicated successfully
+2023/11/26 21:06:14 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":328, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:14 Replicating to 1 nodes..
+2023/11/26 21:06:14 Replicated successfully
+2023/11/26 21:06:15 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":329, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:15 Replicating to 1 nodes..
+2023/11/26 21:06:15 Replicated successfully
+2023/11/26 21:06:15 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":330, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:15 Replicating to 1 nodes..
+2023/11/26 21:06:15 Replicated successfully
+2023/11/26 21:06:15 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":331, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:15 Replicating to 1 nodes..
+2023/11/26 21:06:15 Replicated successfully
+2023/11/26 21:06:15 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":332, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:15 Replicating to 1 nodes..
+2023/11/26 21:06:15 Replicated successfully
+2023/11/26 21:06:15 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":333, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:15 Replicating to 1 nodes..
+2023/11/26 21:06:15 Replicated successfully
+2023/11/26 21:06:15 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":334, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:15 Replicating to 1 nodes..
+2023/11/26 21:06:15 Replicated successfully
+2023/11/26 21:06:16 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":335, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:16 Replicating to 1 nodes..
+2023/11/26 21:06:16 Replicated successfully
+2023/11/26 21:06:16 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":336, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:16 Replicating to 1 nodes..
+2023/11/26 21:06:16 Replicated successfully
+2023/11/26 21:06:16 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":337, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:16 Replicating to 1 nodes..
+2023/11/26 21:06:16 Replicated successfully
+2023/11/26 21:06:16 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":338, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:16 Replicating to 1 nodes..
+2023/11/26 21:06:16 Replicated successfully
+2023/11/26 21:06:16 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":339, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:16 Replicating to 1 nodes..
+2023/11/26 21:06:16 Replicated successfully
+2023/11/26 21:06:17 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":87, "y":339, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:17 Replicating to 1 nodes..
+2023/11/26 21:06:17 Replicated successfully
+2023/11/26 21:06:17 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":86, "y":339, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:17 Replicating to 1 nodes..
+2023/11/26 21:06:17 Replicated successfully
+2023/11/26 21:06:17 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":85, "y":339, "size":21, "logo":"lisp"}}]
+2023/11/26 21:06:17 Replicating to 1 nodes..
+2023/11/26 21:06:17 Replicated successfully
+2023/11/26 21:06:17 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":84, "y":339, "size":22, "logo":"lisp"}}]
+2023/11/26 21:06:17 Replicating to 1 nodes..
+2023/11/26 21:06:17 Replicated successfully
+2023/11/26 21:06:17 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":83, "y":339, "size":22, "logo":"lisp"}}]
+2023/11/26 21:06:17 Replicating to 1 nodes..
+2023/11/26 21:06:17 Replicated successfully
+2023/11/26 21:06:18 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":84, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:18 Replicating to 1 nodes..
+2023/11/26 21:06:18 Replicated successfully
+2023/11/26 21:06:18 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":85, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:18 Replicating to 1 nodes..
+2023/11/26 21:06:18 Replicated successfully
+2023/11/26 21:06:18 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":86, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:18 Replicating to 1 nodes..
+2023/11/26 21:06:18 Replicated successfully
+2023/11/26 21:06:18 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":87, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:18 Replicating to 1 nodes..
+2023/11/26 21:06:18 Replicated successfully
+2023/11/26 21:06:19 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":88, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:19 Replicating to 1 nodes..
+2023/11/26 21:06:19 Replicated successfully
+2023/11/26 21:06:19 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":89, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:19 Replicating to 1 nodes..
+2023/11/26 21:06:19 Replicated successfully
+2023/11/26 21:06:19 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":90, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:19 Replicating to 1 nodes..
+2023/11/26 21:06:19 Replicated successfully
+2023/11/26 21:06:19 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":91, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:19 Replicating to 1 nodes..
+2023/11/26 21:06:19 Replicated successfully
+2023/11/26 21:06:19 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":92, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:19 Replicating to 1 nodes..
+2023/11/26 21:06:19 Replicated successfully
+2023/11/26 21:06:20 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":93, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:20 Replicating to 1 nodes..
+2023/11/26 21:06:20 Replicated successfully
+2023/11/26 21:06:20 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":94, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:20 Replicating to 1 nodes..
+2023/11/26 21:06:20 Replicated successfully
+2023/11/26 21:06:20 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":95, "y":339, "size":23, "logo":"lisp"}}]
+2023/11/26 21:06:20 Replicating to 1 nodes..
+2023/11/26 21:06:20 Replicated successfully
+2023/11/26 21:06:20 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":96, "y":339, "size":24, "logo":"lisp"}}]
+2023/11/26 21:06:20 Replicating to 1 nodes..
+2023/11/26 21:06:20 Replicated successfully
+2023/11/26 21:06:20 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":97, "y":339, "size":24, "logo":"lisp"}}]
+2023/11/26 21:06:20 Replicating to 1 nodes..
+2023/11/26 21:06:20 Replicated successfully
+2023/11/26 21:06:21 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":98, "y":339, "size":24, "logo":"lisp"}}]
+2023/11/26 21:06:21 Replicating to 1 nodes..
+2023/11/26 21:06:21 Replicated successfully
+2023/11/26 21:06:21 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":99, "y":339, "size":24, "logo":"lisp"}}]
+2023/11/26 21:06:21 Replicating to 1 nodes..
+2023/11/26 21:06:21 Replicated successfully
+2023/11/26 21:06:21 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":100, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:21 Replicating to 1 nodes..
+2023/11/26 21:06:21 Replicated successfully
+2023/11/26 21:06:21 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":101, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:21 Replicating to 1 nodes..
+2023/11/26 21:06:21 Replicated successfully
+2023/11/26 21:06:21 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":102, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:21 Replicating to 1 nodes..
+2023/11/26 21:06:21 Replicated successfully
+2023/11/26 21:06:22 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":103, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:22 Replicating to 1 nodes..
+2023/11/26 21:06:22 Replicated successfully
+2023/11/26 21:06:22 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":104, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:22 Replicating to 1 nodes..
+2023/11/26 21:06:22 Replicated successfully
+2023/11/26 21:06:22 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":105, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:22 Replicating to 1 nodes..
+2023/11/26 21:06:22 Replicated successfully
+2023/11/26 21:06:22 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":106, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:22 Replicating to 1 nodes..
+2023/11/26 21:06:22 Replicated successfully
+2023/11/26 21:06:22 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":107, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:22 Replicating to 1 nodes..
+2023/11/26 21:06:22 Replicated successfully
+2023/11/26 21:06:23 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":108, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:23 Replicating to 1 nodes..
+2023/11/26 21:06:23 Replicated successfully
+2023/11/26 21:06:23 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":109, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:23 Replicating to 1 nodes..
+2023/11/26 21:06:23 Replicated successfully
+2023/11/26 21:06:23 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":110, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:23 Replicating to 1 nodes..
+2023/11/26 21:06:23 Replicated successfully
+2023/11/26 21:06:23 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":111, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:23 Replicating to 1 nodes..
+2023/11/26 21:06:23 Replicated successfully
+2023/11/26 21:06:23 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":112, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:23 Replicating to 1 nodes..
+2023/11/26 21:06:23 Replicated successfully
+2023/11/26 21:06:24 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":113, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:24 Replicating to 1 nodes..
+2023/11/26 21:06:24 Replicated successfully
+2023/11/26 21:06:24 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":114, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:24 Replicating to 1 nodes..
+2023/11/26 21:06:24 Replicated successfully
+2023/11/26 21:06:24 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":115, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:24 Replicating to 1 nodes..
+2023/11/26 21:06:24 Replicated successfully
+2023/11/26 21:06:24 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":116, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:24 Replicating to 1 nodes..
+2023/11/26 21:06:24 Replicated successfully
+2023/11/26 21:06:24 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":117, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:24 Replicating to 1 nodes..
+2023/11/26 21:06:24 Replicated successfully
+2023/11/26 21:06:25 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":118, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:25 Replicating to 1 nodes..
+2023/11/26 21:06:25 Replicated successfully
+2023/11/26 21:06:25 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":119, "y":339, "size":25, "logo":"lisp"}}]
+2023/11/26 21:06:25 Replicating to 1 nodes..
+2023/11/26 21:06:25 Replicated successfully
+2023/11/26 21:06:25 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":120, "y":339, "size":26, "logo":"lisp"}}]
+2023/11/26 21:06:25 Replicating to 1 nodes..
+2023/11/26 21:06:25 Replicated successfully
+2023/11/26 21:06:25 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":121, "y":339, "size":26, "logo":"lisp"}}]
+2023/11/26 21:06:25 Replicating to 1 nodes..
+2023/11/26 21:06:25 Replicated successfully
+2023/11/26 21:06:25 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":122, "y":339, "size":26, "logo":"lisp"}}]
+2023/11/26 21:06:25 Replicating to 1 nodes..
+2023/11/26 21:06:25 Replicated successfully
+2023/11/26 21:06:26 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":123, "y":339, "size":26, "logo":"lisp"}}]
+2023/11/26 21:06:26 Replicating to 1 nodes..
+2023/11/26 21:06:26 Replicated successfully
+2023/11/26 21:06:26 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":124, "y":339, "size":26, "logo":"lisp"}}]
+2023/11/26 21:06:26 Replicating to 1 nodes..
+2023/11/26 21:06:26 Replicated successfully
+2023/11/26 21:06:26 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":125, "y":339, "size":26, "logo":"lisp"}}]
+2023/11/26 21:06:26 Replicating to 1 nodes..
+2023/11/26 21:06:26 Replicated successfully
+2023/11/26 21:06:26 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":126, "y":339, "size":27, "logo":"lisp"}}]
+2023/11/26 21:06:26 Replicating to 1 nodes..
+2023/11/26 21:06:26 Replicated successfully
+2023/11/26 21:06:27 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":127, "y":339, "size":27, "logo":"lisp"}}]
+2023/11/26 21:06:27 Replicating to 1 nodes..
+2023/11/26 21:06:27 Replicated successfully
+2023/11/26 21:06:27 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":128, "y":339, "size":27, "logo":"lisp"}}]
+2023/11/26 21:06:27 Replicating to 1 nodes..
+2023/11/26 21:06:27 Replicated successfully
+2023/11/26 21:06:27 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":129, "y":339, "size":27, "logo":"lisp"}}]
+2023/11/26 21:06:27 Replicating to 1 nodes..
+2023/11/26 21:06:27 Replicated successfully
+2023/11/26 21:06:27 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":130, "y":339, "size":27, "logo":"lisp"}}]
+2023/11/26 21:06:27 Replicating to 1 nodes..
+2023/11/26 21:06:27 Replicated successfully
+2023/11/26 21:06:28 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav", "value": {"x":131, "y":339, "size":27, "logo":"lisp"}}]
+2023/11/26 21:06:28 Replicating to 1 nodes..
+2023/11/26 21:06:28 Replicated successfully
+2023/11/26 21:06:31 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":865, "y":248, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:31 Replicating to 1 nodes..
+2023/11/26 21:06:31 Replicated successfully
+2023/11/26 21:06:39 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":865, "y":247, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:39 Replicating to 1 nodes..
+2023/11/26 21:06:39 Replicated successfully
+2023/11/26 21:06:39 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":865, "y":246, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:39 Replicating to 1 nodes..
+2023/11/26 21:06:39 Replicated successfully
+2023/11/26 21:06:39 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":865, "y":245, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:39 Replicating to 1 nodes..
+2023/11/26 21:06:39 Replicated successfully
+2023/11/26 21:06:39 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":865, "y":244, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:39 Replicating to 1 nodes..
+2023/11/26 21:06:39 Replicated successfully
+2023/11/26 21:06:40 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":865, "y":243, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:40 Replicating to 1 nodes..
+2023/11/26 21:06:40 Replicated successfully
+2023/11/26 21:06:40 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":865, "y":242, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:40 Replicating to 1 nodes..
+2023/11/26 21:06:40 Replicated successfully
+2023/11/26 21:06:40 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":865, "y":241, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:40 Replicating to 1 nodes..
+2023/11/26 21:06:40 Replicated successfully
+2023/11/26 21:06:43 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":866, "y":241, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:43 Replicating to 1 nodes..
+2023/11/26 21:06:43 Replicated successfully
+2023/11/26 21:06:43 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":867, "y":241, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:43 Replicating to 1 nodes..
+2023/11/26 21:06:43 Replicated successfully
+2023/11/26 21:06:43 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":868, "y":241, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:43 Replicating to 1 nodes..
+2023/11/26 21:06:43 Replicated successfully
+2023/11/26 21:06:43 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":867, "y":241, "size":21, "logo":"golang"}}]
+2023/11/26 21:06:43 Replicating to 1 nodes..
+2023/11/26 21:06:43 Replicated successfully
+2023/11/26 21:06:44 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":867, "y":242, "size":21, "logo":"golang"}}]
+2023/11/26 21:06:44 Replicating to 1 nodes..
+2023/11/26 21:06:44 Replicated successfully
+2023/11/26 21:06:44 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":867, "y":243, "size":21, "logo":"golang"}}]
+2023/11/26 21:06:44 Replicating to 1 nodes..
+2023/11/26 21:06:44 Replicated successfully
+2023/11/26 21:06:44 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":354, "y":47, "size":20, "logo":"haskell"}}]
+2023/11/26 21:06:44 Replicating to 1 nodes..
+2023/11/26 21:06:44 Replicated successfully
+2023/11/26 21:06:45 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":354, "y":46, "size":20, "logo":"haskell"}}]
+2023/11/26 21:06:45 Replicating to 1 nodes..
+2023/11/26 21:06:45 Replicated successfully
+2023/11/26 21:06:46 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":354, "y":45, "size":20, "logo":"haskell"}}]
+2023/11/26 21:06:46 Replicating to 1 nodes..
+2023/11/26 21:06:46 Replicated successfully
+2023/11/26 21:06:46 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":354, "y":44, "size":20, "logo":"haskell"}}]
+2023/11/26 21:06:46 Replicating to 1 nodes..
+2023/11/26 21:06:46 Replicated successfully
+2023/11/26 21:06:46 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":354, "y":43, "size":20, "logo":"haskell"}}]
+2023/11/26 21:06:46 Replicating to 1 nodes..
+2023/11/26 21:06:46 Replicated successfully
+2023/11/26 21:06:46 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":354, "y":42, "size":20, "logo":"haskell"}}]
+2023/11/26 21:06:46 Replicating to 1 nodes..
+2023/11/26 21:06:46 Replicated successfully
+2023/11/26 21:06:46 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-2", "value": {"x":354, "y":41, "size":20, "logo":"haskell"}}]
+2023/11/26 21:06:46 Replicating to 1 nodes..
+2023/11/26 21:06:46 Replicated successfully
+2023/11/26 21:06:51 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":439, "y":445, "size":20, "logo":"golang"}}]
+2023/11/26 21:06:51 Replicating to 1 nodes..
+2023/11/26 21:06:51 Replicated successfully
+2023/11/26 21:06:52 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":443, "y":450, "size":20, "logo":"haskell"}}]
+2023/11/26 21:06:52 Replicating to 1 nodes..
+2023/11/26 21:06:52 Replicated successfully
+2023/11/26 21:06:52 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":443, "y":449, "size":20, "logo":"haskell"}}]
+2023/11/26 21:06:52 Replicating to 1 nodes..
+2023/11/26 21:06:52 Replicated successfully
+2023/11/26 21:06:53 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":443, "y":448, "size":20, "logo":"haskell"}}]
+2023/11/26 21:06:53 Replicating to 1 nodes..
+2023/11/26 21:06:53 Replicated successfully
+2023/11/26 21:06:53 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":412, "y":160, "size":20, "logo":"ruby"}}]
+2023/11/26 21:06:53 Replicating to 1 nodes..
+2023/11/26 21:06:53 Replicated successfully
+2023/11/26 21:06:53 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":241, "y":24, "size":20, "logo":"ruby"}}]
+2023/11/26 21:06:53 Replicating to 1 nodes..
+2023/11/26 21:06:53 Replicated successfully
+2023/11/26 21:06:55 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":241, "y":25, "size":20, "logo":"ruby"}}]
+2023/11/26 21:06:55 Replicating to 1 nodes..
+2023/11/26 21:06:55 Replicated successfully
+2023/11/26 21:06:55 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":240, "y":25, "size":20, "logo":"ruby"}}]
+2023/11/26 21:06:55 Replicating to 1 nodes..
+2023/11/26 21:06:55 Replicated successfully
+2023/11/26 21:06:56 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":25, "size":20, "logo":"ruby"}}]
+2023/11/26 21:06:56 Replicating to 1 nodes..
+2023/11/26 21:06:56 Replicated successfully
+2023/11/26 21:06:56 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":238, "y":25, "size":20, "logo":"ruby"}}]
+2023/11/26 21:06:56 Replicating to 1 nodes..
+2023/11/26 21:06:56 Replicated successfully
+2023/11/26 21:06:56 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":237, "y":25, "size":20, "logo":"ruby"}}]
+2023/11/26 21:06:56 Replicating to 1 nodes..
+2023/11/26 21:06:56 Replicated successfully
+2023/11/26 21:06:56 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":236, "y":25, "size":20, "logo":"ruby"}}]
+2023/11/26 21:06:56 Replicating to 1 nodes..
+2023/11/26 21:06:56 Replicated successfully
+2023/11/26 21:06:56 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":237, "y":25, "size":20, "logo":"ruby"}}]
+2023/11/26 21:06:56 Replicating to 1 nodes..
+2023/11/26 21:06:56 Replicated successfully
+2023/11/26 21:06:57 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":238, "y":25, "size":20, "logo":"ruby"}}]
+2023/11/26 21:06:57 Replicating to 1 nodes..
+2023/11/26 21:06:57 Replicated successfully
+2023/11/26 21:06:57 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":25, "size":21, "logo":"ruby"}}]
+2023/11/26 21:06:57 Replicating to 1 nodes..
+2023/11/26 21:06:57 Replicated successfully
+2023/11/26 21:06:57 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":24, "size":21, "logo":"ruby"}}]
+2023/11/26 21:06:57 Replicating to 1 nodes..
+2023/11/26 21:06:57 Replicated successfully
+2023/11/26 21:06:58 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":23, "size":21, "logo":"ruby"}}]
+2023/11/26 21:06:58 Replicating to 1 nodes..
+2023/11/26 21:06:58 Replicated successfully
+2023/11/26 21:06:58 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":22, "size":21, "logo":"ruby"}}]
+2023/11/26 21:06:58 Replicating to 1 nodes..
+2023/11/26 21:06:58 Replicated successfully
+2023/11/26 21:06:58 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":21, "size":21, "logo":"ruby"}}]
+2023/11/26 21:06:58 Replicating to 1 nodes..
+2023/11/26 21:06:58 Replicated successfully
+2023/11/26 21:06:58 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":20, "size":21, "logo":"ruby"}}]
+2023/11/26 21:06:58 Replicating to 1 nodes..
+2023/11/26 21:06:58 Replicated successfully
+2023/11/26 21:06:58 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":19, "size":21, "logo":"ruby"}}]
+2023/11/26 21:06:58 Replicating to 1 nodes..
+2023/11/26 21:06:58 Replicated successfully
+2023/11/26 21:06:59 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":20, "size":21, "logo":"ruby"}}]
+2023/11/26 21:06:59 Replicating to 1 nodes..
+2023/11/26 21:06:59 Replicated successfully
+2023/11/26 21:06:59 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":21, "size":21, "logo":"ruby"}}]
+2023/11/26 21:06:59 Replicating to 1 nodes..
+2023/11/26 21:06:59 Replicated successfully
+2023/11/26 21:07:00 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":22, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:00 Replicating to 1 nodes..
+2023/11/26 21:07:00 Replicated successfully
+2023/11/26 21:07:00 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":23, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:00 Replicating to 1 nodes..
+2023/11/26 21:07:00 Replicated successfully
+2023/11/26 21:07:00 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":24, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:00 Replicating to 1 nodes..
+2023/11/26 21:07:00 Replicated successfully
+2023/11/26 21:07:00 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":25, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:00 Replicating to 1 nodes..
+2023/11/26 21:07:00 Replicated successfully
+2023/11/26 21:07:00 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":26, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:00 Replicating to 1 nodes..
+2023/11/26 21:07:00 Replicated successfully
+2023/11/26 21:07:01 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":27, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:01 Replicating to 1 nodes..
+2023/11/26 21:07:01 Replicated successfully
+2023/11/26 21:07:01 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":28, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:01 Replicating to 1 nodes..
+2023/11/26 21:07:01 Replicated successfully
+2023/11/26 21:07:01 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":29, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:01 Replicating to 1 nodes..
+2023/11/26 21:07:01 Replicated successfully
+2023/11/26 21:07:01 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":30, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:01 Replicating to 1 nodes..
+2023/11/26 21:07:01 Replicated successfully
+2023/11/26 21:07:01 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":31, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:01 Replicating to 1 nodes..
+2023/11/26 21:07:01 Replicated successfully
+2023/11/26 21:07:02 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":32, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:02 Replicating to 1 nodes..
+2023/11/26 21:07:02 Replicated successfully
+2023/11/26 21:07:02 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":33, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:02 Replicating to 1 nodes..
+2023/11/26 21:07:02 Replicated successfully
+2023/11/26 21:07:02 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":34, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:02 Replicating to 1 nodes..
+2023/11/26 21:07:02 Replicated successfully
+2023/11/26 21:07:02 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":35, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:02 Replicating to 1 nodes..
+2023/11/26 21:07:02 Replicated successfully
+2023/11/26 21:07:03 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":36, "size":21, "logo":"ruby"}}]
+2023/11/26 21:07:03 Replicating to 1 nodes..
+2023/11/26 21:07:03 Replicated successfully
+2023/11/26 21:07:03 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":37, "size":22, "logo":"ruby"}}]
+2023/11/26 21:07:03 Replicating to 1 nodes..
+2023/11/26 21:07:03 Replicated successfully
+2023/11/26 21:07:03 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":38, "size":22, "logo":"ruby"}}]
+2023/11/26 21:07:03 Replicating to 1 nodes..
+2023/11/26 21:07:03 Replicated successfully
+2023/11/26 21:07:03 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":39, "size":22, "logo":"ruby"}}]
+2023/11/26 21:07:03 Replicating to 1 nodes..
+2023/11/26 21:07:03 Replicated successfully
+2023/11/26 21:07:04 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":240, "y":39, "size":22, "logo":"ruby"}}]
+2023/11/26 21:07:04 Replicating to 1 nodes..
+2023/11/26 21:07:04 Replicated successfully
+2023/11/26 21:07:04 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":241, "y":39, "size":22, "logo":"ruby"}}]
+2023/11/26 21:07:04 Replicating to 1 nodes..
+2023/11/26 21:07:04 Replicated successfully
+2023/11/26 21:07:05 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":242, "y":39, "size":22, "logo":"ruby"}}]
+2023/11/26 21:07:05 Replicating to 1 nodes..
+2023/11/26 21:07:05 Replicated successfully
+2023/11/26 21:07:05 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":243, "y":39, "size":22, "logo":"ruby"}}]
+2023/11/26 21:07:05 Replicating to 1 nodes..
+2023/11/26 21:07:05 Replicated successfully
+2023/11/26 21:07:05 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":242, "y":39, "size":22, "logo":"ruby"}}]
+2023/11/26 21:07:05 Replicating to 1 nodes..
+2023/11/26 21:07:05 Replicated successfully
+2023/11/26 21:07:05 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":241, "y":39, "size":22, "logo":"ruby"}}]
+2023/11/26 21:07:05 Replicating to 1 nodes..
+2023/11/26 21:07:05 Replicated successfully
+2023/11/26 21:07:06 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":240, "y":39, "size":22, "logo":"ruby"}}]
+2023/11/26 21:07:06 Replicating to 1 nodes..
+2023/11/26 21:07:06 Replicated successfully
+2023/11/26 21:07:06 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":39, "size":22, "logo":"ruby"}}]
+2023/11/26 21:07:06 Replicating to 1 nodes..
+2023/11/26 21:07:06 Replicated successfully
+2023/11/26 21:07:08 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":40, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:08 Replicating to 1 nodes..
+2023/11/26 21:07:08 Replicated successfully
+2023/11/26 21:07:08 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":41, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:08 Replicating to 1 nodes..
+2023/11/26 21:07:08 Replicated successfully
+2023/11/26 21:07:09 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":42, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:09 Replicating to 1 nodes..
+2023/11/26 21:07:09 Replicated successfully
+2023/11/26 21:07:09 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":43, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:09 Replicating to 1 nodes..
+2023/11/26 21:07:09 Replicated successfully
+2023/11/26 21:07:22 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":42, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:22 Replicating to 1 nodes..
+2023/11/26 21:07:22 Replicated successfully
+2023/11/26 21:07:23 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":41, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:23 Replicating to 1 nodes..
+2023/11/26 21:07:23 Replicated successfully
+2023/11/26 21:07:23 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":40, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:23 Replicating to 1 nodes..
+2023/11/26 21:07:23 Replicated successfully
+2023/11/26 21:07:23 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":39, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:23 Replicating to 1 nodes..
+2023/11/26 21:07:23 Replicated successfully
+2023/11/26 21:07:23 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":239, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:23 Replicating to 1 nodes..
+2023/11/26 21:07:23 Replicated successfully
+2023/11/26 21:07:31 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":238, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:31 Replicating to 1 nodes..
+2023/11/26 21:07:31 Replicated successfully
+2023/11/26 21:07:31 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":237, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:31 Replicating to 1 nodes..
+2023/11/26 21:07:31 Replicated successfully
+2023/11/26 21:07:31 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":236, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:31 Replicating to 1 nodes..
+2023/11/26 21:07:31 Replicated successfully
+2023/11/26 21:07:31 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":235, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:31 Replicating to 1 nodes..
+2023/11/26 21:07:31 Replicated successfully
+2023/11/26 21:07:31 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":234, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:31 Replicating to 1 nodes..
+2023/11/26 21:07:31 Replicated successfully
+2023/11/26 21:07:32 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":233, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:32 Replicating to 1 nodes..
+2023/11/26 21:07:32 Replicated successfully
+2023/11/26 21:07:32 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":232, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:32 Replicating to 1 nodes..
+2023/11/26 21:07:32 Replicated successfully
+2023/11/26 21:07:32 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":231, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:32 Replicating to 1 nodes..
+2023/11/26 21:07:32 Replicated successfully
+2023/11/26 21:07:32 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":230, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:32 Replicating to 1 nodes..
+2023/11/26 21:07:32 Replicated successfully
+2023/11/26 21:07:32 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":229, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:32 Replicating to 1 nodes..
+2023/11/26 21:07:32 Replicated successfully
+2023/11/26 21:07:32 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":228, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:32 Replicating to 1 nodes..
+2023/11/26 21:07:32 Replicated successfully
+2023/11/26 21:07:33 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":227, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:33 Replicating to 1 nodes..
+2023/11/26 21:07:33 Replicated successfully
+2023/11/26 21:07:33 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":226, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:33 Replicating to 1 nodes..
+2023/11/26 21:07:33 Replicated successfully
+2023/11/26 21:07:33 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":225, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:33 Replicating to 1 nodes..
+2023/11/26 21:07:33 Replicated successfully
+2023/11/26 21:07:43 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":224, "y":38, "size":23, "logo":"ruby"}}]
+2023/11/26 21:07:43 Replicating to 1 nodes..
+2023/11/26 21:07:43 Replicated successfully
+2023/11/26 21:07:43 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":223, "y":38, "size":24, "logo":"ruby"}}]
+2023/11/26 21:07:43 Replicating to 1 nodes..
+2023/11/26 21:07:43 Replicated successfully
+2023/11/26 21:07:44 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":222, "y":38, "size":24, "logo":"ruby"}}]
+2023/11/26 21:07:44 Replicating to 1 nodes..
+2023/11/26 21:07:44 Replicated successfully
+2023/11/26 21:07:44 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":221, "y":38, "size":24, "logo":"ruby"}}]
+2023/11/26 21:07:44 Replicating to 1 nodes..
+2023/11/26 21:07:44 Replicated successfully
+2023/11/26 21:07:44 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":220, "y":38, "size":24, "logo":"ruby"}}]
+2023/11/26 21:07:44 Replicating to 1 nodes..
+2023/11/26 21:07:44 Replicated successfully
+2023/11/26 21:07:44 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":219, "y":38, "size":24, "logo":"ruby"}}]
+2023/11/26 21:07:44 Replicating to 1 nodes..
+2023/11/26 21:07:44 Replicated successfully
+2023/11/26 21:07:44 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":218, "y":38, "size":24, "logo":"ruby"}}]
+2023/11/26 21:07:44 Replicating to 1 nodes..
+2023/11/26 21:07:44 Replicated successfully
+2023/11/26 21:07:44 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":217, "y":38, "size":24, "logo":"ruby"}}]
+2023/11/26 21:07:44 Replicating to 1 nodes..
+2023/11/26 21:07:44 Replicated successfully
+2023/11/26 21:07:45 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":216, "y":38, "size":24, "logo":"ruby"}}]
+2023/11/26 21:07:45 Replicating to 1 nodes..
+2023/11/26 21:07:45 Replicated successfully
+2023/11/26 21:07:45 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":215, "y":38, "size":24, "logo":"ruby"}}]
+2023/11/26 21:07:45 Replicating to 1 nodes..
+2023/11/26 21:07:45 Replicated successfully
+2023/11/26 21:07:45 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":214, "y":38, "size":25, "logo":"ruby"}}]
+2023/11/26 21:07:45 Replicating to 1 nodes..
+2023/11/26 21:07:45 Replicated successfully
+2023/11/26 21:07:45 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":38, "size":25, "logo":"ruby"}}]
+2023/11/26 21:07:45 Replicating to 1 nodes..
+2023/11/26 21:07:45 Replicated successfully
+2023/11/26 21:07:45 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":212, "y":38, "size":25, "logo":"ruby"}}]
+2023/11/26 21:07:45 Replicating to 1 nodes..
+2023/11/26 21:07:45 Replicated successfully
+2023/11/26 21:07:46 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":25, "logo":"ruby"}}]
+2023/11/26 21:07:46 Replicating to 1 nodes..
+2023/11/26 21:07:46 Replicated successfully
+2023/11/26 21:07:46 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":26, "logo":"ruby"}}]
+2023/11/26 21:07:46 Replicating to 1 nodes..
+2023/11/26 21:07:46 Replicated successfully
+2023/11/26 21:07:46 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":27, "logo":"ruby"}}]
+2023/11/26 21:07:46 Replicating to 1 nodes..
+2023/11/26 21:07:46 Replicated successfully
+2023/11/26 21:07:46 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":208, "y":38, "size":27, "logo":"ruby"}}]
+2023/11/26 21:07:46 Replicating to 1 nodes..
+2023/11/26 21:07:46 Replicated successfully
+2023/11/26 21:07:46 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":207, "y":38, "size":27, "logo":"ruby"}}]
+2023/11/26 21:07:46 Replicating to 1 nodes..
+2023/11/26 21:07:46 Replicated successfully
+2023/11/26 21:07:46 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":206, "y":38, "size":27, "logo":"ruby"}}]
+2023/11/26 21:07:46 Replicating to 1 nodes..
+2023/11/26 21:07:46 Replicated successfully
+2023/11/26 21:07:47 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":205, "y":38, "size":27, "logo":"ruby"}}]
+2023/11/26 21:07:47 Replicating to 1 nodes..
+2023/11/26 21:07:47 Replicated successfully
+2023/11/26 21:07:47 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":204, "y":38, "size":27, "logo":"ruby"}}]
+2023/11/26 21:07:47 Replicating to 1 nodes..
+2023/11/26 21:07:47 Replicated successfully
+2023/11/26 21:07:47 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":203, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:47 Replicating to 1 nodes..
+2023/11/26 21:07:47 Replicated successfully
+2023/11/26 21:07:47 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":202, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:47 Replicating to 1 nodes..
+2023/11/26 21:07:47 Replicated successfully
+2023/11/26 21:07:47 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":201, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:47 Replicating to 1 nodes..
+2023/11/26 21:07:47 Replicated successfully
+2023/11/26 21:07:48 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":200, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:48 Replicating to 1 nodes..
+2023/11/26 21:07:48 Replicated successfully
+2023/11/26 21:07:52 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":201, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:52 Replicating to 1 nodes..
+2023/11/26 21:07:52 Replicated successfully
+2023/11/26 21:07:52 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":202, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:52 Replicating to 1 nodes..
+2023/11/26 21:07:52 Replicated successfully
+2023/11/26 21:07:52 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":203, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:52 Replicating to 1 nodes..
+2023/11/26 21:07:52 Replicated successfully
+2023/11/26 21:07:52 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":204, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:52 Replicating to 1 nodes..
+2023/11/26 21:07:52 Replicated successfully
+2023/11/26 21:07:52 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":205, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:52 Replicating to 1 nodes..
+2023/11/26 21:07:52 Replicated successfully
+2023/11/26 21:07:53 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":206, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:53 Replicating to 1 nodes..
+2023/11/26 21:07:53 Replicated successfully
+2023/11/26 21:07:53 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":207, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:53 Replicating to 1 nodes..
+2023/11/26 21:07:53 Replicated successfully
+2023/11/26 21:07:55 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":208, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:55 Replicating to 1 nodes..
+2023/11/26 21:07:55 Replicated successfully
+2023/11/26 21:07:55 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":28, "logo":"ruby"}}]
+2023/11/26 21:07:55 Replicating to 1 nodes..
+2023/11/26 21:07:55 Replicated successfully
+2023/11/26 21:07:56 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":29, "logo":"ruby"}}]
+2023/11/26 21:07:56 Replicating to 1 nodes..
+2023/11/26 21:07:56 Replicated successfully
+2023/11/26 21:07:57 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":29, "logo":"ruby"}}]
+2023/11/26 21:07:57 Replicating to 1 nodes..
+2023/11/26 21:07:57 Replicated successfully
+2023/11/26 21:07:58 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":30, "logo":"ruby"}}]
+2023/11/26 21:07:58 Replicating to 1 nodes..
+2023/11/26 21:07:58 Replicated successfully
+2023/11/26 21:07:58 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":30, "logo":"ruby"}}]
+2023/11/26 21:07:58 Replicating to 1 nodes..
+2023/11/26 21:07:58 Replicated successfully
+2023/11/26 21:07:58 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":31, "logo":"ruby"}}]
+2023/11/26 21:07:58 Replicating to 1 nodes..
+2023/11/26 21:07:58 Replicated successfully
+2023/11/26 21:07:59 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":31, "logo":"ruby"}}]
+2023/11/26 21:07:59 Replicating to 1 nodes..
+2023/11/26 21:07:59 Replicated successfully
+2023/11/26 21:07:59 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":32, "logo":"ruby"}}]
+2023/11/26 21:07:59 Replicating to 1 nodes..
+2023/11/26 21:07:59 Replicated successfully
+2023/11/26 21:07:59 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":33, "logo":"ruby"}}]
+2023/11/26 21:07:59 Replicating to 1 nodes..
+2023/11/26 21:07:59 Replicated successfully
+2023/11/26 21:07:59 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":34, "logo":"ruby"}}]
+2023/11/26 21:07:59 Replicating to 1 nodes..
+2023/11/26 21:07:59 Replicated successfully
+2023/11/26 21:08:00 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":34, "logo":"ruby"}}]
+2023/11/26 21:08:00 Replicating to 1 nodes..
+2023/11/26 21:08:00 Replicated successfully
+2023/11/26 21:08:00 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":35, "logo":"ruby"}}]
+2023/11/26 21:08:00 Replicating to 1 nodes..
+2023/11/26 21:08:00 Replicated successfully
+2023/11/26 21:08:00 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":35, "logo":"ruby"}}]
+2023/11/26 21:08:00 Replicating to 1 nodes..
+2023/11/26 21:08:00 Replicated successfully
+2023/11/26 21:08:00 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":36, "logo":"ruby"}}]
+2023/11/26 21:08:00 Replicating to 1 nodes..
+2023/11/26 21:08:00 Replicated successfully
+2023/11/26 21:08:01 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":36, "logo":"ruby"}}]
+2023/11/26 21:08:01 Replicating to 1 nodes..
+2023/11/26 21:08:01 Replicated successfully
+2023/11/26 21:08:01 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":37, "logo":"ruby"}}]
+2023/11/26 21:08:01 Replicating to 1 nodes..
+2023/11/26 21:08:01 Replicated successfully
+2023/11/26 21:08:01 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":37, "logo":"ruby"}}]
+2023/11/26 21:08:01 Replicating to 1 nodes..
+2023/11/26 21:08:01 Replicated successfully
+2023/11/26 21:08:01 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":38, "logo":"ruby"}}]
+2023/11/26 21:08:01 Replicating to 1 nodes..
+2023/11/26 21:08:01 Replicated successfully
+2023/11/26 21:08:02 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":38, "logo":"ruby"}}]
+2023/11/26 21:08:02 Replicating to 1 nodes..
+2023/11/26 21:08:02 Replicated successfully
+2023/11/26 21:08:02 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":39, "logo":"ruby"}}]
+2023/11/26 21:08:02 Replicating to 1 nodes..
+2023/11/26 21:08:02 Replicated successfully
+2023/11/26 21:08:02 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":39, "logo":"ruby"}}]
+2023/11/26 21:08:02 Replicating to 1 nodes..
+2023/11/26 21:08:02 Replicated successfully
+2023/11/26 21:08:02 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":40, "logo":"ruby"}}]
+2023/11/26 21:08:02 Replicating to 1 nodes..
+2023/11/26 21:08:02 Replicated successfully
+2023/11/26 21:08:02 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":209, "y":38, "size":41, "logo":"ruby"}}]
+2023/11/26 21:08:02 Replicating to 1 nodes..
+2023/11/26 21:08:02 Replicated successfully
+2023/11/26 21:08:03 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":42, "logo":"ruby"}}]
+2023/11/26 21:08:03 Replicating to 1 nodes..
+2023/11/26 21:08:03 Replicated successfully
+2023/11/26 21:08:03 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":43, "logo":"ruby"}}]
+2023/11/26 21:08:03 Replicating to 1 nodes..
+2023/11/26 21:08:03 Replicated successfully
+2023/11/26 21:08:03 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":44, "logo":"ruby"}}]
+2023/11/26 21:08:03 Replicating to 1 nodes..
+2023/11/26 21:08:03 Replicated successfully
+2023/11/26 21:08:04 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":44, "logo":"ruby"}}]
+2023/11/26 21:08:04 Replicating to 1 nodes..
+2023/11/26 21:08:04 Replicated successfully
+2023/11/26 21:08:05 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":45, "logo":"ruby"}}]
+2023/11/26 21:08:05 Replicating to 1 nodes..
+2023/11/26 21:08:05 Replicated successfully
+2023/11/26 21:08:05 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":45, "logo":"ruby"}}]
+2023/11/26 21:08:05 Replicating to 1 nodes..
+2023/11/26 21:08:05 Replicated successfully
+2023/11/26 21:08:05 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":46, "logo":"ruby"}}]
+2023/11/26 21:08:05 Replicating to 1 nodes..
+2023/11/26 21:08:05 Replicated successfully
+2023/11/26 21:08:05 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":47, "logo":"ruby"}}]
+2023/11/26 21:08:05 Replicating to 1 nodes..
+2023/11/26 21:08:05 Replicated successfully
+2023/11/26 21:08:06 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":48, "logo":"ruby"}}]
+2023/11/26 21:08:06 Replicating to 1 nodes..
+2023/11/26 21:08:06 Replicated successfully
+2023/11/26 21:08:06 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":49, "logo":"ruby"}}]
+2023/11/26 21:08:06 Replicating to 1 nodes..
+2023/11/26 21:08:06 Replicated successfully
+2023/11/26 21:08:06 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":50, "logo":"ruby"}}]
+2023/11/26 21:08:06 Replicating to 1 nodes..
+2023/11/26 21:08:06 Replicated successfully
+2023/11/26 21:08:06 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":50, "logo":"ruby"}}]
+2023/11/26 21:08:06 Replicating to 1 nodes..
+2023/11/26 21:08:06 Replicated successfully
+2023/11/26 21:08:07 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":51, "logo":"ruby"}}]
+2023/11/26 21:08:07 Replicating to 1 nodes..
+2023/11/26 21:08:07 Replicated successfully
+2023/11/26 21:08:08 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":52, "logo":"ruby"}}]
+2023/11/26 21:08:08 Replicating to 1 nodes..
+2023/11/26 21:08:08 Replicated successfully
+2023/11/26 21:08:08 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":53, "logo":"ruby"}}]
+2023/11/26 21:08:08 Replicating to 1 nodes..
+2023/11/26 21:08:08 Replicated successfully
+2023/11/26 21:08:09 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":53, "logo":"ruby"}}]
+2023/11/26 21:08:09 Replicating to 1 nodes..
+2023/11/26 21:08:09 Replicated successfully
+2023/11/26 21:08:09 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":54, "logo":"ruby"}}]
+2023/11/26 21:08:09 Replicating to 1 nodes..
+2023/11/26 21:08:09 Replicated successfully
+2023/11/26 21:08:09 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":54, "logo":"ruby"}}]
+2023/11/26 21:08:09 Replicating to 1 nodes..
+2023/11/26 21:08:09 Replicated successfully
+2023/11/26 21:08:10 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":55, "logo":"ruby"}}]
+2023/11/26 21:08:10 Replicating to 1 nodes..
+2023/11/26 21:08:10 Replicated successfully
+2023/11/26 21:08:10 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":55, "logo":"ruby"}}]
+2023/11/26 21:08:10 Replicating to 1 nodes..
+2023/11/26 21:08:10 Replicated successfully
+2023/11/26 21:08:10 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":56, "logo":"ruby"}}]
+2023/11/26 21:08:10 Replicating to 1 nodes..
+2023/11/26 21:08:10 Replicated successfully
+2023/11/26 21:08:10 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":56, "logo":"ruby"}}]
+2023/11/26 21:08:10 Replicating to 1 nodes..
+2023/11/26 21:08:10 Replicated successfully
+2023/11/26 21:08:11 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":210, "y":38, "size":57, "logo":"ruby"}}]
+2023/11/26 21:08:11 Replicating to 1 nodes..
+2023/11/26 21:08:11 Replicated successfully
+2023/11/26 21:08:11 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":211, "y":38, "size":57, "logo":"ruby"}}]
+2023/11/26 21:08:11 Replicating to 1 nodes..
+2023/11/26 21:08:11 Replicated successfully
+2023/11/26 21:08:11 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":212, "y":38, "size":58, "logo":"ruby"}}]
+2023/11/26 21:08:11 Replicating to 1 nodes..
+2023/11/26 21:08:11 Replicated successfully
+2023/11/26 21:08:11 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":38, "size":58, "logo":"ruby"}}]
+2023/11/26 21:08:11 Replicating to 1 nodes..
+2023/11/26 21:08:11 Replicated successfully
+2023/11/26 21:08:12 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":212, "y":38, "size":58, "logo":"ruby"}}]
+2023/11/26 21:08:12 Replicating to 1 nodes..
+2023/11/26 21:08:12 Replicated successfully
+2023/11/26 21:08:12 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":38, "size":58, "logo":"ruby"}}]
+2023/11/26 21:08:12 Replicating to 1 nodes..
+2023/11/26 21:08:12 Replicated successfully
+2023/11/26 21:08:12 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":212, "y":38, "size":58, "logo":"ruby"}}]
+2023/11/26 21:08:12 Replicating to 1 nodes..
+2023/11/26 21:08:12 Replicated successfully
+2023/11/26 21:08:12 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":38, "size":58, "logo":"ruby"}}]
+2023/11/26 21:08:12 Replicating to 1 nodes..
+2023/11/26 21:08:12 Replicated successfully
+2023/11/26 21:08:13 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":212, "y":38, "size":58, "logo":"ruby"}}]
+2023/11/26 21:08:13 Replicating to 1 nodes..
+2023/11/26 21:08:13 Replicated successfully
+2023/11/26 21:08:13 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":38, "size":58, "logo":"ruby"}}]
+2023/11/26 21:08:13 Replicating to 1 nodes..
+2023/11/26 21:08:13 Replicated successfully
+2023/11/26 21:08:13 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":212, "y":38, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:13 Replicating to 1 nodes..
+2023/11/26 21:08:13 Replicated successfully
+2023/11/26 21:08:14 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":38, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:14 Replicating to 1 nodes..
+2023/11/26 21:08:14 Replicated successfully
+2023/11/26 21:08:14 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":212, "y":38, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:14 Replicating to 1 nodes..
+2023/11/26 21:08:14 Replicated successfully
+2023/11/26 21:08:14 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":38, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:14 Replicating to 1 nodes..
+2023/11/26 21:08:14 Replicated successfully
+2023/11/26 21:08:15 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":212, "y":38, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:15 Replicating to 1 nodes..
+2023/11/26 21:08:15 Replicated successfully
+2023/11/26 21:08:15 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":38, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:15 Replicating to 1 nodes..
+2023/11/26 21:08:15 Replicated successfully
+2023/11/26 21:08:16 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":39, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:16 Replicating to 1 nodes..
+2023/11/26 21:08:16 Replicated successfully
+2023/11/26 21:08:16 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":40, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:16 Replicating to 1 nodes..
+2023/11/26 21:08:16 Replicated successfully
+2023/11/26 21:08:17 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":41, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:17 Replicating to 1 nodes..
+2023/11/26 21:08:17 Replicated successfully
+2023/11/26 21:08:17 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":42, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:17 Replicating to 1 nodes..
+2023/11/26 21:08:17 Replicated successfully
+2023/11/26 21:08:17 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":43, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:17 Replicating to 1 nodes..
+2023/11/26 21:08:17 Replicated successfully
+2023/11/26 21:08:17 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":44, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:17 Replicating to 1 nodes..
+2023/11/26 21:08:17 Replicated successfully
+2023/11/26 21:08:17 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":45, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:17 Replicating to 1 nodes..
+2023/11/26 21:08:17 Replicated successfully
+2023/11/26 21:08:18 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":46, "size":59, "logo":"ruby"}}]
+2023/11/26 21:08:18 Replicating to 1 nodes..
+2023/11/26 21:08:18 Replicated successfully
+2023/11/26 21:08:18 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":47, "size":60, "logo":"ruby"}}]
+2023/11/26 21:08:18 Replicating to 1 nodes..
+2023/11/26 21:08:18 Replicated successfully
+2023/11/26 21:08:18 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":48, "size":60, "logo":"ruby"}}]
+2023/11/26 21:08:18 Replicating to 1 nodes..
+2023/11/26 21:08:18 Replicated successfully
+2023/11/26 21:08:18 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":49, "size":60, "logo":"ruby"}}]
+2023/11/26 21:08:18 Replicating to 1 nodes..
+2023/11/26 21:08:18 Replicated successfully
+2023/11/26 21:08:18 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":50, "size":60, "logo":"ruby"}}]
+2023/11/26 21:08:18 Replicating to 1 nodes..
+2023/11/26 21:08:18 Replicated successfully
+2023/11/26 21:08:19 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":51, "size":60, "logo":"ruby"}}]
+2023/11/26 21:08:19 Replicating to 1 nodes..
+2023/11/26 21:08:19 Replicated successfully
+2023/11/26 21:08:19 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":52, "size":60, "logo":"ruby"}}]
+2023/11/26 21:08:19 Replicating to 1 nodes..
+2023/11/26 21:08:19 Replicated successfully
+2023/11/26 21:08:19 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":53, "size":61, "logo":"ruby"}}]
+2023/11/26 21:08:19 Replicating to 1 nodes..
+2023/11/26 21:08:19 Replicated successfully
+2023/11/26 21:08:19 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":54, "size":61, "logo":"ruby"}}]
+2023/11/26 21:08:19 Replicating to 1 nodes..
+2023/11/26 21:08:19 Replicated successfully
+2023/11/26 21:08:20 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":55, "size":61, "logo":"ruby"}}]
+2023/11/26 21:08:20 Replicating to 1 nodes..
+2023/11/26 21:08:20 Replicated successfully
+2023/11/26 21:08:20 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":56, "size":61, "logo":"ruby"}}]
+2023/11/26 21:08:20 Replicating to 1 nodes..
+2023/11/26 21:08:20 Replicated successfully
+2023/11/26 21:08:20 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":57, "size":62, "logo":"ruby"}}]
+2023/11/26 21:08:20 Replicating to 1 nodes..
+2023/11/26 21:08:20 Replicated successfully
+2023/11/26 21:08:20 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":58, "size":62, "logo":"ruby"}}]
+2023/11/26 21:08:20 Replicating to 1 nodes..
+2023/11/26 21:08:20 Replicated successfully
+2023/11/26 21:08:20 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":59, "size":62, "logo":"ruby"}}]
+2023/11/26 21:08:20 Replicating to 1 nodes..
+2023/11/26 21:08:20 Replicated successfully
+2023/11/26 21:08:21 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":60, "size":62, "logo":"ruby"}}]
+2023/11/26 21:08:21 Replicating to 1 nodes..
+2023/11/26 21:08:21 Replicated successfully
+2023/11/26 21:08:21 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":61, "size":62, "logo":"ruby"}}]
+2023/11/26 21:08:21 Replicating to 1 nodes..
+2023/11/26 21:08:21 Replicated successfully
+2023/11/26 21:08:21 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":62, "size":62, "logo":"ruby"}}]
+2023/11/26 21:08:21 Replicating to 1 nodes..
+2023/11/26 21:08:21 Replicated successfully
+2023/11/26 21:08:21 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":63, "size":62, "logo":"ruby"}}]
+2023/11/26 21:08:21 Replicating to 1 nodes..
+2023/11/26 21:08:21 Replicated successfully
+2023/11/26 21:08:21 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":64, "size":62, "logo":"ruby"}}]
+2023/11/26 21:08:21 Replicating to 1 nodes..
+2023/11/26 21:08:21 Replicated successfully
+2023/11/26 21:08:22 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":65, "size":62, "logo":"ruby"}}]
+2023/11/26 21:08:22 Replicating to 1 nodes..
+2023/11/26 21:08:22 Replicated successfully
+2023/11/26 21:08:22 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":66, "size":62, "logo":"ruby"}}]
+2023/11/26 21:08:22 Replicating to 1 nodes..
+2023/11/26 21:08:22 Replicated successfully
+2023/11/26 21:08:22 [Journal] inserted new log [{"op":"add", "path": "/Yaroslav-3", "value": {"x":213, "y":67, "size":62, "logo":"ruby"}}]
+2023/11/26 21:08:22 Replicating to 1 nodes..
+2023/11/26 21:08:22 Replicated successfully
