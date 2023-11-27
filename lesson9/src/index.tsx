@@ -144,6 +144,7 @@ function Players() {
   let players = []
   for (const key in snap) {
     let player = snap[key]
+
     players.push(<circle cx={player.x} cy={player.y} r={player.size} stroke="white" fill="transparent" />)
     players.push(<text x={player.x} y={player.y} font-size="8">{key}</text>)
     players.push(<image href={LOGOS.get(String(player.logo))} x={player.x} y={player.y} height={player.size} width={player.size}/>)
@@ -151,8 +152,23 @@ function Players() {
   return <>{players}</>
 }
 
+function GameResult() {
+  const snap = useStore($snap)
+  let players = []
+  for (const key in snap) {
+    let player = snap[key]
+
+    if (player.size > 30) {
+      return <><div>{key} won!</div></>
+    }
+  }
+
+  return <></>
+}
+
 ReactDOM.render(
   <React.StrictMode>
+    <GameResult></GameResult>
     <PlayerInput></PlayerInput>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
       <rect x='0' y='0' width='100%' height='100%' fill='tomato' opacity='0.75' />
